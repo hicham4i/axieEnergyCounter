@@ -1,0 +1,14 @@
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\bin\Debug\axieEnergyCounter.exe.config
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\bin\Debug\axieEnergyCounter.exe
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\bin\Debug\axieEnergyCounter.pdb
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter.csprojResolveAssemblyReference.cache
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\MainWindow.g.cs
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\App.g.cs
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter_MarkupCompile.cache
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter_MarkupCompile.lref
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\MainWindow.baml
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter.g.resources
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter.Properties.Resources.resources
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter.csproj.GenerateResource.Cache
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter.exe
+c:\users\dellirio\documents\visual studio 2015\Projects\axieEnergyCounter\axieEnergyCounter\obj\Debug\axieEnergyCounter.pdb
